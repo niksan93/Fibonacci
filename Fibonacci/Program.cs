@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
+// Никаноров Алесандр
+// 03.05.2017
+// VS 2010
 
 namespace Fibonacci
 {
